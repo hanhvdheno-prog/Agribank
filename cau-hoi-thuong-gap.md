@@ -1,4 +1,4 @@
-# Câu hỏi thường gặp về Loa TingeeBox
+# Câu hỏi thường gặp
 
 **1. Điện thoại của khách hàng không có ở cửa hàng thì loa có đọc thông báo không?**
 
@@ -22,11 +22,11 @@ Loa có 2 chế độ Wifi/4G. Trường hợp khách hàng không có Wifi, ho�
 
 **6. Khách tự mua sim lắp vào loa có được không, hay phải mua sim của Tingee?**
 
-Khách hàng có thể tự mua sim để lắp vào thiết bị. Ngoài ra, Tingee có hỗ trợ khách hàng mua sim với mức phí 99.000 VNĐ/năm.
+Khách hàng có thể tự mua sim để lắp vào thiết bị. Ngoài ra, Tingee có hỗ trợ khách hàng mua sim với mức phí 100.000 VNĐ/năm.
 
 **7. Có mất phí hàng năm không?**
 
-Phí duy trì hàng năm từ năm thứ 2 trở đi là 99.000 VNĐ/năm (**miễn phí năm đầu tiên**). Khách hàng cũng có thể chọn gói dịch vụ 165.000 VNĐ/loa để miễn phí dịch vụ trọn đời.
+Phí duy trì hàng năm từ năm thứ 2 trở đi là 99.000 VNĐ/năm (**miễn phí năm đầu tiên**).&#x20;
 
 **8. Có giới hạn số tiền hay hạn mức không?**
 
